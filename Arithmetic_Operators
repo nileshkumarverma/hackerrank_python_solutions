@@ -1,0 +1,5 @@
+firstnumber=int(raw_input())
+secondnumber=int(raw_input())
+print firstnumber+secondnumber
+print firstnumber-secondnumber
+print firstnumber*secondnumber
