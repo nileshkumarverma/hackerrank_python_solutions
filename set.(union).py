@@ -1,0 +1,5 @@
+x = input()
+math = set(map(int,input().split()))
+b = input()
+science = set(map(int,input().split()))
+print(len(math.union(science)))
